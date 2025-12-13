@@ -2,3 +2,31 @@ site_name: Louisiana Mesh Community Docs
 site_url: https://docs.louisianamesh.org/
 theme:
   name: material
+  palette:
+
+      # Light Mode
+    - scheme: default
+      toggle:
+        icon: material/weather-night
+        name: Light mode
+      primary: light green
+      accent: deep orange
+
+    # Dark Mode
+    - scheme: slate
+      toggle:
+        icon: material/weather-sunny
+        name: Dark mode
+      primary: light green
+      accent: deep purple
+
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/LouisianaMeshCommunity
+
+    - icon: fontawesome/brands/discord
+      link: https://discord.louisianamesh.org
+
+    - icon: fontawesome/solid/hand-holding-usd
+      link: https://ko-fi.com/louisianameshcommunity
