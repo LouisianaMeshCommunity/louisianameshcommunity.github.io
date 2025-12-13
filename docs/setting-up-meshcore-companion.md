@@ -56,3 +56,7 @@ This guide details the steps to set up your Meshcore Companion device.
     * Once everything is set up, click the **CHECK mark** in upper right corner.
     * Scroll down and **REBOOT**.
     * Reconnect to app; Companion setup should be complete.
+
+## Acknowledgments
+
+#### The following guide was created by Ferret from West Coast Mesh and rr from the Louisiana Mesh community. Thank you to these contributors for their work on this guide ^~^
