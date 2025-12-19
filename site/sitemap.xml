@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://docs.louisianamesh.org/</loc>
-         <lastmod>2025-12-13</lastmod>
+         <lastmod>2025-12-19</lastmod>
+    </url>
+    <url>
+         <loc>https://docs.louisianamesh.org/antenna/</loc>
+         <lastmod>2025-12-19</lastmod>
     </url>
     <url>
          <loc>https://docs.louisianamesh.org/meshcore-repeater-setup/</loc>
-         <lastmod>2025-12-13</lastmod>
+         <lastmod>2025-12-19</lastmod>
     </url>
     <url>
          <loc>https://docs.louisianamesh.org/setting-up-meshcore-companion/</loc>
-         <lastmod>2025-12-13</lastmod>
+         <lastmod>2025-12-19</lastmod>
     </url>
 </urlset>
