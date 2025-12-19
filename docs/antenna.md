@@ -18,5 +18,12 @@
 #### [Cheap Ebay Whip Antenna](https://www.ebay.com/itm/196317210118) 
 RR: These were terriable, 2.7 at 910.
 
-#### [Any Bending Antenna (0-90 degree)](https://www.amazon.com/dp/B0CTXL61LY?ref_=ppx_hzsearch_conn_dt_b_fed_asin_title_2)
+#### [Any Bending Antenna (0-90 degree)](https://amzn.to/48Nx1cz)
 Nola Mesh: These antennas are okay when pointing stright up, but bended complely changes the antennna profile.
+
+
+---
+
+
+
+Some of the links on this page may be affiliate links, which help fund our community. These do not affect our opinion or the recommendations we give.
