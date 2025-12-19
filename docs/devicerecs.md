@@ -6,7 +6,6 @@ If you are looking for a reliable, rugged, and water-resistant node with a 5-day
 ---
 
 ## Solar Node Recommendations
-Solar nodes are essential for building out a permanent mesh infrastructure. Whether you want something ready to hang or a board to build yourself, these are our top picks:
 
 ### Pre-made Solar Nodes
 If you prefer a "plug-and-play" solution that is weather-ready out of the box, the **SenseCAP P1** or **P1 Pro** from [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html) are excellent choices. These units integrate the solar controller and enclosure, saving you significant assembly time.
