@@ -15,12 +15,12 @@ The **P1** is $35 cheaper as it does not include batteries or GPS; you will need
 ### Solar Nodes to Build
 For those DIYing their own solar enclosures, these two boards are the best in class:
 
-* **RAK WisMesh:** Highly recommended for its industry-leading power efficiency. Buy from: [Rak Wireless](https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit), [Amazon](https://amzn.to/3MQtcun)
+* **RAK WisMesh:** Highly recommended for its power efficiency. Buy from: [Rak Wireless](https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit), [Amazon](https://amzn.to/3MQtcun)
 * **Heltec V4:** A more powerful alternative, for a slightly cheaper price. Buy from: [Heltec Automation](https://heltec.org/project/wifi-lora-32-v4/), [Amazon](https://amzn.to/48YZfQb)
 
 | Board | Strength | Trade-off |
 | :--- | :--- | :--- |
-| **RAK WisMesh** | Extreme power efficiency | Slightly lower TX power |
+| **RAK WisMesh** | Power efficiency | Slightly lower TX power |
 | **Heltec V4** | Higher transmit power | Higher power consumption |
 
 
