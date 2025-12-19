@@ -1,6 +1,10 @@
 # What antenna should I use?
 
-## 3 Basic Recommendedations (For Repeaters)
+
+## 4 Basic Recommendedations (For Repeaters)
+
+#### Good Small: 18$
+[ALFA Network Omni](https://amzn.to/48OW9zD)
 
 #### Good: $50 
 [Rokland Backcountry N-Male Omni Antenna](https://store.rokland.com/products/10-dbi-backcountry-n-male-omni-outdoor-helium-915-mhz-antenna-48-for-rak-miner-2-nebra-indoor-bobcat-hotspots)
@@ -11,7 +15,25 @@
 #### Best: $150 
 [It's a diamond, if your into ham; yknow what it is](https://www.diamondantenna.net/bc920.html)
 
+---
 
+## Handheld Antenna Recommendedations
+
+### Heltec's SMA: 6$
+[For a decent, cheap antenna, handheld antenna, it works](https://heltec.org/project/sma-antenna/)
+
+### Muzi Works: 13$
+[915mhz Whip, These are good but seem to have some varaition from each antenna.](https://amzn.to/44x42Hq)
+
+---
+
+## Repeater Antenna Recommendedations
+
+### ALFA Knokeoff: 12$
+[Simlar prefomance to the ALFA for 5$ less, Good for hanging/less then legal nodes](https://amzn.to/3KUJP7M)
+
+
+---
 
 ## Do Not Buy:
 

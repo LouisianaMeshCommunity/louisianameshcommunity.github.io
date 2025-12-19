@@ -22,8 +22,9 @@ theme:
 
 nav:
   - Home: index.md
-  - Setting up a Meshcore Companion: setting-up-meshcore-companion.md
+  - What Device should I buy?: devicerecs.md
   - What Antenna should I use?: antenna.md
+  - Setting up a Meshcore Companion: setting-up-meshcore-companion.md
   - Meshcore Repeater Setup: meshcore-repeater-setup.md
 
 
