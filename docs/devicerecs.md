@@ -11,9 +11,9 @@ If you are looking for a reliable, rugged, and water-resistant node with a 5-day
 
 | Board | Strength | Trade-off | Buy-from |
 | :--- | :--- | :--- | :--- |
-| **T1000-E** | Durability & Battery Long Life | No display, Limited Expandbility | [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865),  [Amazon](https://amzn.to/3KUMsXc)
-| **T-Deck-Plus** | Built-in Keyboard & Large Display | Battery Life, Large Formfactor, High Price | [Lilygo](https://lilygo.cc/products/t-deck-plus-meshtastic?variant=51953085382837),  [Amazon](https://amzn.to/4pQMWwx)
-| **Wio Tracker L1 Pro** | Durability, Joystick Keyboard (With Ranger Firmware), Battery Life | Larger Then T1000-E Without Water Resistance | [Seeed Studio](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html),  [Amazon](https://amzn.to/48UAKF7)
+| **T1000-E** | Durability & Long Battery Life | No display, Limited Expandbility | [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865),  [Amazon](https://amzn.to/3KUMsXc)
+| **T-Deck-Plus** | Built-in Keyboard & Large Display | Poor Battery Life, Large Formfactor, High Price | [Lilygo](https://lilygo.cc/products/t-deck-plus-meshtastic?variant=51953085382837),  [Amazon](https://amzn.to/4pQMWwx)
+| **Wio Tracker L1 Pro** | Durability, Joystick Keyboard (With Ranger Firmware), Great Battery Life | Larger Then T1000-E Without Water Resistance | [Seeed Studio](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html),  [Amazon](https://amzn.to/48UAKF7)
 | **MeshPocket** | Works As A Magsafe Battery Bank & E-Ink Display | Quite Fragile | [Heltec Automation](https://heltec.org/project/meshpocket/),  [Amazon](https://amzn.to/3YIxqqz)
 
 ---
