@@ -35,7 +35,7 @@ For those DIYing their own repeater or solar enclosures, here are some boards we
 | Board | Strength | Trade-off | Buy-from |
 | :--- | :--- | :--- | :--- |
 | **RAK WisMesh** | Power efficiency | Slightly lower TX power | [Rak Wireless](https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit),  [Amazon](https://amzn.to/3MQtcun)
-| **Heltec V4** | Higher transmit power | Higher power consumption | [Heltec Automation](https://heltec.org/project/wifi-lora-32-v4/),  [Amazon](https://amzn.to/48YZfQb)
+| **Heltec V4** | Higher transmit power | Higher power consumption | [Heltec Automation](https://heltec.org/project/wifi-lora-32-v4/),  [Amazon External Wifi Without Screen](https://amzn.to/48WPXWg), [Amazon With Screen](https://amzn.to/48YZfQb) 
 | **Xio-SX1262** | Ultra-Small formfactor | poor price to preformance | [Seeedstudio](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html?sensecap_affiliate=Je7dGgm&referring_service=link) with 2% coupon 0YZSYDIW,  [Amazon](https://amzn.to/49t6qBy)
 
 
