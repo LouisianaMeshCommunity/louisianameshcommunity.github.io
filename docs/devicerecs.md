@@ -5,15 +5,15 @@
 ## Personal Node Recommendations
 
 ### Best Daily Carry (EDC)
-If you are looking for a reliable, rugged, and water-resistant node with a 5-day battery life, the **T1000-E** from Seeed Studio is a great choice. You can purchase it directly from [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865) or on [Amazon](https://amzn.to/3KUMsXc).
+If you are looking for a reliable, rugged, and water-resistant node with a 5-day battery life, the **T1000-E** from Seeed Studio is a great choice. You can purchase it directly from [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865) with 5% coupon K7ABUUV9 or on [Amazon](https://amzn.to/3KUMsXc).
 
 ### Our Recommendation List:
 
 | Board | Strength | Trade-off | Buy-from |
 | :--- | :--- | :--- | :--- |
-| **T1000-E** | Durability & Long Battery Life | No display, Limited Expandbility | [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865),  [Amazon](https://amzn.to/3KUMsXc)
+| **T1000-E** | Durability & Long Battery Life | No display, Limited Expandbility | [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Card-Tracker-T1000-E-for-Meshtastic-p-5913.html?qid=VVLLAQ_f83zcvqx_1766178728865&sensecap_affiliate=Je7dGgm&referring_service=link),  [Amazon](https://amzn.to/3KUMsXc)
 | **T-Deck-Plus** | Built-in Keyboard & Large Display | Poor Battery Life, Large Formfactor, High Price | [Lilygo](https://lilygo.cc/products/t-deck-plus-meshtastic?variant=51953085382837),  [Amazon](https://amzn.to/4pQMWwx)
-| **Wio Tracker L1 Pro** | Durability, Joystick Keyboard (With Ranger Firmware), Great Battery Life | Larger Then T1000-E Without Water Resistance | [Seeed Studio](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html),  [Amazon](https://amzn.to/48UAKF7)
+| **Wio Tracker L1 Pro** | Durability, Joystick Keyboard (With Ranger Firmware), Great Battery Life | Larger Then T1000-E Without Water Resistance | [Seeed Studio](https://www.seeedstudio.com/Wio-Tracker-L1-Pro-p-6454.html?sensecap_affiliate=Je7dGgm&referring_service=link),  [Amazon](https://amzn.to/48UAKF7)
 | **MeshPocket** | Works As A Magsafe Battery Bank & E-Ink Display | Quite Fragile | [Heltec Automation](https://heltec.org/project/meshpocket/),  [Amazon](https://amzn.to/3YIxqqz)
 
 ---
@@ -21,7 +21,7 @@ If you are looking for a reliable, rugged, and water-resistant node with a 5-day
 ## Solar Node Recommendations
 
 ### Pre-made Solar Nodes
-If you prefer a "plug-and-play" solution that is weather-ready out of the box, the **SenseCAP P1** or **P1 Pro** from [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html) are excellent choices. These units integrate the solar controller and enclosure, saving you significant assembly time.
+If you prefer a "plug-and-play" solution that is weather-ready out of the box, the **SenseCAP P1** or **P1 Pro** from [Seeed Studio](https://www.seeedstudio.com/SenseCAP-Solar-Node-P1-for-Meshtastic-LoRa-p-6425.html?sensecap_affiliate=Je7dGgm&referring_service=link) are excellent choices. These units integrate the solar controller and enclosure, saving you significant assembly time. you can recieve a 5% discount by code S9ZRMA1X at checkout.
 
 The **P1** is $35 cheaper as it does not include batteries or GPS; you will need to supply four 18650 batteries yourself. By comparison, the **P1 Pro** includes everything you need to get started, including an integrated GPS module.
 
@@ -36,7 +36,7 @@ For those DIYing their own repeater or solar enclosures, here are some boards we
 | :--- | :--- | :--- | :--- |
 | **RAK WisMesh** | Power efficiency | Slightly lower TX power | [Rak Wireless](https://store.rokland.com/collections/rakwireless-products/products/rak-wireless-wisblock-meshtastic-starter-kit),  [Amazon](https://amzn.to/3MQtcun)
 | **Heltec V4** | Higher transmit power | Higher power consumption | [Heltec Automation](https://heltec.org/project/wifi-lora-32-v4/),  [Amazon External Wifi Without Screen](https://amzn.to/48WPXWg), [Amazon With Screen](https://amzn.to/48YZfQb) 
-| **Xio-SX1262** | Ultra-Small formfactor | poor price to preformance | [Seeedstudio](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html),  [Amazon](https://amzn.to/49t6qBy)
+| **Xio-SX1262** | Ultra-Small formfactor | poor price to preformance | [Seeedstudio](https://www.seeedstudio.com/Wio-SX1262-with-XIAO-ESP32S3-p-5982.html?sensecap_affiliate=Je7dGgm&referring_service=link) with 2% coupon 0YZSYDIW,  [Amazon](https://amzn.to/49t6qBy)
 
 
 
